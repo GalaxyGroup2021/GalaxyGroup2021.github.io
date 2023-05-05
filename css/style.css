@@ -179,7 +179,7 @@ nav {
 }
 
 .welcome-text1 h1 {
-  font-family:cursive;
+  font-family: 'Delius Swash Caps', cursive;
   text-align: center;
   font-size: 2rem;
   margin-bottom: 2rem;
@@ -273,7 +273,7 @@ nav {
   /* border: red solid; */
   text-align: center;
   font-size: 50px;
-  font-family: cursive;
+  font-family: 'Delius Swash Caps', cursive;
   color: #454545;
 }
 #kreatify{
@@ -293,7 +293,7 @@ nav {
 /* border: red solid; */
 text-align: center;
 color: #FFA559;
-font-family: cursive;
+font-family: 'Delius Swash Caps', cursive;
 font-size: 20px;
 }
 #innofy{
@@ -313,7 +313,7 @@ font-size: 20px;
 /* border: red solid; */
 text-align: center;
 color: #FFA559;
-font-family: cursive;
+font-family: 'Delius Swash Caps', cursive;
 font-size: 20px;
 }
 #connetify{
@@ -333,7 +333,7 @@ font-size: 20px;
 /* border: red solid; */
 text-align: center;
 color: #FFA559;
-font-family: cursive;
+font-family: 'Delius Swash Caps', cursive;
 font-size: 20px;
 }
 
@@ -389,7 +389,7 @@ font-size: 20px;
 }
 #teams h1{
   font-size: 30px;
-  font-family: cursive;
+  font-family: 'Delius Swash Caps', cursive;
   
   text-align: center;
 }
